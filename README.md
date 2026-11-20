@@ -1,1 +1,0 @@
-# Laboratory_Work_4_Cplusplus
